@@ -1,1 +1,1 @@
-hello-world
+cooderl/wewe-rss-sqlite:latest
